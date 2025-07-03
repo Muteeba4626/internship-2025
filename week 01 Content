@@ -18,3 +18,8 @@ Command line to get help (whatis,man,--help,apropos)
 Shell Types (Bourne,Z,C,Korn,Bash)
 Bash shell Features (ls,alias,history)
 Path variables (PS1)
+Intro to Linux Kernel
+Kernel Versions (uname, uname-r)
+Memory Management ( kernel and user mode)
+Hardware Components attach to  Linux (dmesg,udevadm,udevadm info,udevadm monitor,lspci,lsblk,lscpu,lsmem,free-m,lshw)
+Linux Boot Sequence and 4Stages (ls -l/sbin/init  for init process)
