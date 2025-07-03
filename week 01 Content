@@ -1,4 +1,5 @@
-Introduction to devOps 
+Introduction to devOps , Key Principles, and Roles
+Linux file system navigation, users, permissions
 Basic Commands:
 echo,ls,cd,pwd,mkdir
 Directory Commands:
@@ -10,11 +11,10 @@ Check OS version,user account
 Download from internet
 Pakage Managers rpm,yum,apt
 Linux Basic Course
-Linux Shell
 Commands and Arguments
 Absolute and relative paths
-Pagers
-Command line to get help
-Shell Types
-Bash shell Features
-Path variables 
+Pagers (less,more)
+Command line to get help (whatis,man,--help,apropos)
+Shell Types (Bourne,Z,C,Korn,Bash)
+Bash shell Features (ls,alias,history)
+Path variables (PS1)
