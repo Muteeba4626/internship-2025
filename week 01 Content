@@ -1,0 +1,20 @@
+Introduction to devOps 
+Basic Commands:
+echo,ls,cd,pwd,mkdir
+Directory Commands:
+mkdir -r, rm, rm-r ,cp, cp -r 
+files Directory
+touch,cat,cat>,mov
+VI Editor
+Check OS version,user account
+Download from internet
+Pakage Managers rpm,yum,apt
+Linux Basic Course
+Linux Shell
+Commands and Arguments
+Absolute and relative paths
+Pagers
+Command line to get help
+Shell Types
+Bash shell Features
+Path variables 
