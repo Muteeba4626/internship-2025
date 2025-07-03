@@ -1,27 +1,37 @@
+------------Day 1 ________July 01,2025 
 
 **Introduction to devOps , Key Principles, and Roles**
+**Linux file system navigation, users, permissions**
+      -Basic Commands:
+         echo,ls,cd,pwd,mkdir
+      -Directory Commands:
+          mkdir -r, rm, rm-r ,cp, cp -r 
+      -Files Directory
+          touch,cat,cat>,mov
 
-Linux file system navigation, users, permissions
-Basic Commands:
-echo,ls,cd,pwd,mkdir
-Directory Commands:
-mkdir -r, rm, rm-r ,cp, cp -r 
-files Directory
-touch,cat,cat>,mov
-VI Editor
-Check OS version,user account
-Download from internet
-Pakage Managers rpm,yum,apt
-Linux Basic Course
-Commands and Arguments
-Absolute and relative paths
-Pagers (less,more)
-Command line to get help (whatis,man,--help,apropos)
-Shell Types (Bourne,Z,C,Korn,Bash)
-Bash shell Features (ls,alias,history)
-Path variables (PS1)
-Intro to Linux Kernel
-Kernel Versions (uname, uname-r)
-Memory Management ( kernel and user mode)
-Hardware Components attach to  Linux (dmesg,udevadm,udevadm info,udevadm monitor,lspci,lsblk,lscpu,lsmem,free-m,lshw)
-Linux Boot Sequence and 4Stages (ls -l/sbin/init  for init process)
+------------Day 2 ________July 02,2025 
+
+-VI Editor
+-Check OS version and User Acount
+-Download from internet
+-Pakage Managers   ->  rpm,yum,apt
+**Linux Basic Course**
+    -Commands and Arguments
+    -Absolute and relative paths
+    -Pagers (less,more)
+    -Command line to get help 
+      commands: whatis,man,--help,apropos
+
+------------Day 3________July 03,2025 
+
+-Shell Types (Bourne,Z,C,Korn,Bash)
+    -Bash shell Features (ls,alias,history)
+    -Path variables (PS1)
+**Introduction to Linux Kernel**
+    -Kernel Versions 
+        commands:uname, uname-r
+    -Memory Management ( kernel and user mode)
+    -Hardware Components attach to  Linux 
+        commands: dmesg,udevadm,udevadm info,udevadm monitor,lspci,lsblk,lscpu,lsmem,free-m,lshw
+**Linux Boot Sequence and Stages**
+        commands: ls -l/sbin/init___for init process
