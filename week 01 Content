@@ -1,4 +1,7 @@
-------------Day 1 ________July 01,2025 
+=================================== WEEK 01 CONTENT ====================================
+
+
+_________________________________Day 1 ________July 01,2025 ____________________________
 
 **Introduction to devOps , Key Principles, and Roles**
 **Linux file system navigation, users, permissions**
@@ -9,7 +12,7 @@
       -Files Directory
           touch,cat,cat>,mov
 
-------------Day 2 ________July 02,2025 
+_________________________________Day 2 ________July 02,2025 ____________________________
 
 -VI Editor
 -Check OS version and User Acount
@@ -22,7 +25,7 @@
     -Command line to get help 
       commands: whatis,man,--help,apropos
 
-------------Day 3________July 03,2025 
+_________________________________Day 3 ________July 03,2025 ____________________________
 
 -Shell Types (Bourne,Z,C,Korn,Bash)
     -Bash shell Features (ls,alias,history)
@@ -36,4 +39,51 @@
 **Linux Boot Sequence and Stages**
         commands: ls -l/sbin/init___for init process
 
-        
+_________________________________Day 4 ________July 04,2025 ____________________________
+
+- Linux Sevices 
+- Networking +labs
+- Systemd Target (RunLevels)
+- File types and filesystem hierarchy
+
+_________________________________Day 5 ________July 05,2025 ____________________________
+
+- Working with Shell
+- Compress/uncompress
+- Searching for Files/Directories
+- Data streams
+- Command line pipe
+- Network issues 
+- DNS
+- Record Types
+- TroubleShooting
+- Security and Access controls
+- Mnanaging users
+
+----------------------GITHUB COURSE----------------------
+- Git branches
+- Merging branches
+- Initialize remote repositories
+- Cloning remote repositories
+- Pull Request
+- Fork
+- Rebasing / Interactive Rebasing
+- Cherry Pick
+- Resetting and Reverting 
+- Stashing
+- Reflog
+
+_________________________________Day 6 ________July 06,2025 ____________________________
+
+-File permissions and modify
+-Change ownership/groups
+-Copy files and Directories
+- IpTables
+- CronJobs
+- Tools for Managing Services
+- Storage Basics
+- External Storages
+- NFS
+- Local Volume Manager (LVM)
+
+
